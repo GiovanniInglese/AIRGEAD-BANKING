@@ -1,1 +1,12 @@
 # AIRGEAD-BANKING
+
+PROMPT:  Creating an investment calculating application
+The task at hand is to create an application that allows for user interaction to calculate a banking investment of the users choosing.  The user will be able to input there initial investment, number of years on the investment, interest rate, and the monthy deposits if any.  We were required to print an interactive screen where the user could input the following information.  Then after the user would be redirected to two output screens.  For this project we had to calculate the amount and annual earned interest for the option of with deposits and the option of without deposits.  So the two output screens would print the data respectivly to each choice.  The overall functionality of the application is to let users know how their investment will grow over time.  
+
+What did you do particularly well?:
+On this project, Something that I did well with was the class declaration and the class initialization.  I used header files to declare the two classes that I was using which was one for the banking data and another simpler class for the data calculation.  This overall made the code easier to work with as well as easier to go back and fix some mistskes that I may have made.  Creating teh banking data class made the most sense especially since we need to use different user inputs to calculate various investments so having a class that can encapsulate Since this project was object orientated I had to utilize classes as well as setter and getter methods in order to obtain the user input and utilize it in the other functioning methods that I had to implement such as the calculations.  Something else I believe that I did well was creating the output screens and utilzing various syntax methods for printing items such as a large amount of the same characters as well as keeping titles aligned and the data aligned as well.  I could have implemented a better way for maintaining alignment however I just used c++ functions such as setfill() and setw()
+
+Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
+One thing I could do to enhance my code is to make some printing methods more efficent such as creating a function itself to print the data input screen.  Another thing that I could have done better is get the data Input screen to output all the information simultaneously.  Currently the application
+
+
